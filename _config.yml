@@ -1,0 +1,35 @@
+title: Gazeta Universitária
+description: > # this means to ignore newlines until "baseurl:"
+  Do Centro Universitário Integrado, o jornal online "Gazeta Universitária": a fim de informar e colocar em debate questões pertinentes ao mundo acadêmico, em especial, 
+  nessa edição, o contexto de adaptação e vínculo estudantil.
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "gazetauniversitaria.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: Gazeta Universitária # add your name
+author-img: integrado.png # add your photo # colocar o logo aqui depois
+about-author: De estudante para estudante. # add description
+social-twitter: # add your Twitter handle
+social-facebook: # add your Facebook handle
+social-linkedin: # add your Linkedin handle
+social-email: # add your Email address
+
+# Disqus
+discus-identifier: gazetauni # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

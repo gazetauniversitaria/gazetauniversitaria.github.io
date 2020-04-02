@@ -5,25 +5,21 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "gazetauniversitaria.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
 
-# Author Settings
-author: Gazeta Universitária # add your name
-author-img: integrado.png # add your photo # colocar o logo aqui depois
+author: Gazeta Universitária 
+author-img: integrado.png 
 about-author: | 
   De estudante para estudante. 
   Edição: Adaptação e vínculo na Universidade.
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
+social-facebook: 
 social-email: anakrichicovski@hotmail.com
+social-github: gazetauniversitaria
 
-# Disqus
-discus-identifier: gazetauni # add your discus identifier
+discus-identifier: gazetauni 
 
 # Tracker
 analytics: # Google Analytics
 
-# Build Settings
 markdown: kramdown
 plugins:
   - jekyll-sitemap

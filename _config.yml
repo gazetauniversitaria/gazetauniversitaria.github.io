@@ -10,7 +10,10 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Gazeta Universitária # add your name
 author-img: integrado.png # add your photo # colocar o logo aqui depois
-about-author: De estudante para estudante. # add description
+about-author: | 
+  De estudante para estudante. 
+  
+  Edição: Adaptação e vínculo na Universidade
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-linkedin: # add your Linkedin handle

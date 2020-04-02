@@ -12,12 +12,10 @@ author: Gazeta Universitária # add your name
 author-img: integrado.png # add your photo # colocar o logo aqui depois
 about-author: | 
   De estudante para estudante. 
-  
-  Edição: Adaptação e vínculo na Universidade
+  Edição: Adaptação e vínculo na Universidade.
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: anakrichicovski@hotmail.com
 
 # Disqus
 discus-identifier: gazetauni # add your discus identifier

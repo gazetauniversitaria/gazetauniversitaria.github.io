@@ -1,9 +1,9 @@
 title: Gazeta Universitária
-description: > # this means to ignore newlines until "baseurl:"
+description: > 
   Do Centro Universitário Integrado, o jornal online "Gazeta Universitária": a fim de informar e colocar em debate questões pertinentes ao mundo acadêmico, em especial, 
   nessa edição, o contexto de adaptação e vínculo estudantil.
 permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: ""
 url: "gazetauniversitaria.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 author: Gazeta Universitária 
@@ -11,9 +11,8 @@ author-img: integrado.png
 about-author: | 
   De estudante para estudante. 
   Edição: Adaptação e vínculo na Universidade.
-social-facebook: 
+  
 social-email: anakrichicovski@hotmail.com
-social-github: gazetauniversitaria
 
 discus-identifier: gazetauni 
 

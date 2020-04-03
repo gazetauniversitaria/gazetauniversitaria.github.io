@@ -1,6 +1,6 @@
 # Sobre
 
-A Gazeta Universitária é um jornal *online*, de estudante para estudante, ligada ao Centro Universitário Integrado.
+A Gazeta Universitária é um jornal *online*, de estudante para estudante, ligado ao Centro Universitário Integrado.
 
 De natureza livre, foi construído a partir de Jekyll, um gerador em Ruby, e é hospedado gratuitamente pelo GitHub Pages. A licença de seu código é [MIT](https://mit-license.org/).
 

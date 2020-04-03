@@ -16,7 +16,7 @@ De natureza livre, foi construído a partir de Jekyll, um gerador em Ruby, e é 
      * jemoji
   * [github-pages](https://pages.github.com/) 3.8.5
   * Testes locais:
-    * Unix 5.3.0-28-generic
+    * [Linux](https://www.linux.org/) 5.3.0-28-generic
     * [Linux Mate](https://www.linuxmint.com/) (Vinícius) / [elementaryOS](https://elementary.io/) 5.0 (Ana)
     * Jekyll 4.0
     * [Bundler](https://bundler.io/) 2.1.4

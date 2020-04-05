@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Saiba mais: Atléticas - O que são?"
+date: 2020-04-04 11:00:00 +0300
+description: Ao projeto de jornal online; Gazeta Universitária
+assets:  img/Adaptação.jpg
+tags: [Estudantes, Saúde Mental, Psicologia, Atléticas, Faculdade, Curso] 
+---
+
+A ser escrito.

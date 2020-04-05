@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gazeta Universitária - O Projeto
-date: 2020-04-01 18:00:00 +0300
+date: 2020-04-05 10:00:00 +0300
 description: Ao projeto de jornal online; Gazeta Universitária
 img: apresentacao/capa.jpg
 tags: [Integrado, Jornal, Estudantes] # add tag

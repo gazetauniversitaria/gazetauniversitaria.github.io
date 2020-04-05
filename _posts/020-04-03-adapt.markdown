@@ -1,0 +1,10 @@
+---
+layout: post
+title: "O caminho para adptação na universidade"
+date: 2020-04-03 11:00:00 +0300
+description: Ao projeto de jornal online; Gazeta Universitária
+img:  trote/capa.png
+tags: [Estudantes, Saúde Mental, Psicologia,Adaptação] 
+---
+
+A ser escrito.

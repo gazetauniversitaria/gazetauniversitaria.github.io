@@ -3,7 +3,7 @@ layout: post
 title: "Saiba mais: Atléticas - O que são?"
 date: 2020-04-04 11:00:00 +0300
 description: Ao projeto de jornal online; Gazeta Universitária
-assets:  img/Adaptação.jpg
+assets:  atletica/img.jpg
 tags: [Estudantes, Saúde Mental, Psicologia, Atléticas, Faculdade, Curso] 
 ---
 
@@ -13,18 +13,18 @@ Nome: Larissa Gomes Pereira
 
 Curso: Psicologia
 
-1.Qual a função de uma atlética?
+#### 1.Qual a função de uma atlética?
 
 Uma Associação Atlética Acadêmica é uma associação/empresa independente que visa a integração entre alunos, cursos e instituições. Inicialmente foram criadas afim de promover treinos e campeonatos voltados para o esporte. No decorrer dos anos, também foram acrescidos eventos e ações sociais.
 
-2.Você acha que uma atlética pode contribuir para a adaptação e vínculo na universidade?
+#### 2.Você acha que uma atlética pode contribuir para a adaptação e vínculo na universidade?
 
 Uma atlética pode contribuir para a adaptação e vínculo na universidade, pois tem como objetivo principal a integração entre alunos, cursos e instituições. A atlética busca acolher principalmente os calouros nessa nova etapa da vida acadêmica, ajudando-o a se familiarizar com o ambiente, com as interações sociais requisitadas nesse meio e com a instituição. Bem como a Atlética Medusa ressalta a importância da interação entre cursos da área da saúde entendendo esse âmbito como multidisciplinar e sempre necessitando desse contato tanto na vida acadêmica quanto no exercício profissional.
 
-3.De que modo uma atlética contribui com isso?
+#### 3.De que modo uma atlética contribui com isso?
 
 A atlética promove: (1) treinos esportivos, ressaltando a prática da atividade física e atividade em grupo; (2) festas a fim de estabelecer vínculos, contatos e relações entre as pessoas através de momentos de lazer e diversão; (3) ações sociais, que fortalecem o grupo e o contato com a comunidade externa, o que também é essencial para área da saúde visto que trabalhará com público; (4) Associação e venda de produtos personalizados, caracterizando um grupo, o que pode ajudar o acadêmico a se sentir incluso em um espaço e facilitar a familiarização; (5) grupos de WhatsApp como ferramenta para comunicação tanto para recados quanto para interação entre alunos dos mais diversos cursos; entre outros.
 
-3.2 ATLÉTICAS CENTRO UNIVERSITÁRIO INTEGRADO
+##### 3.2 ATLÉTICAS CENTRO UNIVERSITÁRIO INTEGRADO
 
 E por último,como forma de entretenimento, vamos mostrar o Slogan e os cursos que compõe todas as Atléticas do Centro Universitário Integrado. 

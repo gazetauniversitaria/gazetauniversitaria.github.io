@@ -27,4 +27,4 @@ Pensando sobre o papel da instituição, você sabia que o Centro Universitário
 
 > Autores:
 >
-> <cite> Ana Krichicovski, Diego Slusarski, Eduardo de Paula, Karina dos Santos e Thyago Prates.</cite>
+> <cite> KRICHICOVSKI, A., SLUSARSKI, D., PAULA, E., SANTOS, K., PRATES, T.</cite>

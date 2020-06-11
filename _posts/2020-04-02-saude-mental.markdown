@@ -7,7 +7,7 @@ img: saude-mental/ncapa.jpg
 tags: [Saúde Mental, Você Importa, Saúde Mental Importa, Cuide-se, Psicologia] 
 ---
 
-*Você sabia que os universitários possuem até 25% a mais de chances de desenvolver transtornos mentais como depressão, ansiedade e estresse?*
+*80% dos universitários entrevistados já tiveram problemas emocionais.*
 
 Segundo uma pesquisa de perfil socioeconômico dos estudantes de graduação, feita pela Andifes (2014/2016), **80%** dos universitários entrevistados já tiveram problemas emocionais (ansiedade, insônia, tristeza permanente, pânico, ideia e pensamento de morte) e somente 4% contaram com apoio psicológico. Como causas desencadeadoras dos problemas emocionais foram mencionados: Problemas financeiros (42,21%), Carga excessiva de trabalhos estudantis (36,1%), Falta de disciplina e hábito de estudo (28,78%), Adaptação a mudanças de cidade, moradia e distância familiar (21,85%) e a relação com os professores (19,8%).
 

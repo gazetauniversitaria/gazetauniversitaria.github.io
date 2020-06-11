@@ -4,7 +4,71 @@ title: "Serviços de apoio ao estudante"
 date: 2020-04-04 11:00:00 +0300
 description: Ao projeto de jornal online; Gazeta Universitária
 img:  Apoio/Apoio.png
-tags: [Estudantes, Saúde Mental, Psicologia,Adaptação, Serviços, Comunidade, Auxílio, Psíquico] 
+tags: [Estudantes, Saúde Mental, Psicologia,Adaptação, Serviços, Comunidade, Auxílio, Ouvidoria, Integrado, Campo Mourão] 
 ---
 
-A ser escrito.
+#OUVIDORIA
+Tem como função melhorar a relação de todos com a instituição. 
+Mais informações em: [Site da ouvidoria](https://www.grupointegrado.com.br/o-integrado/ouvidoria) 
+
+#BRINQUEDOTECA
+Espaço onde acadêmicos e professores buscam a interação e desenvolvimento infantil. Assistência sob responsabilidade do curso de pedagogia do integrado.
+Contato: **(44) 3518-2500.**
+
+#CLÍNICA DE NUTRIÇÃO
+É disponibilizado pela clínica consultas de nutrição e diversos serviços gratuitamente para Campo Mourão e região.
+Contato: (44)3518-2500.
+UNIDADE DE PSICOLOGIA APLICADA
+Oferece serviços psicológicos gratuitos para a comunidade de Campo Mourão e região.
+Contato: **(44) 3510-2500**
+
+#FARMÁCIA COMUNITÁRIA
+Tem como objetivo realizar a doação de medicamentos e orientar sobre sua correta utilização à comunidade carente de Campo Mourão.
+Contato: **(44) 3518-2566**
+
+#CENTRO VETERINÁRIO INTEGRADO
+O centro oferece diversos atendimentos e procedimentos especializados qualificados.
+Contato: **(44) 3518-2559**
+
+#CLÍNICA ESCOLA DE ESTÉTICA E COSMÉTICA
+Tem como objetivo ofertar gratuitamente à comunidade de Campo Mourão serviços na área de beleza e bem-estar.
+Contato: **(44) 3518-2500**
+
+#NÚCLEO DE PRÁTICA JURÍDICA
+Atende gratuitamente às pessoas carentes, que não possuem condições para contratação de um serviço advocatício.
+E-mail para contato: peres@grupointegrado.br
+
+#PROGRAMA DE ORIENTAÇÃO PROFISSIONAL INTENSIVA (POPI)
+Programa coordenado pelo curso de Psicologia, buscando auxiliar pessoas em sua escolha profissional.
+Contato: **(44) 3518-2500**
+
+#CINEPSICO
+Tem como objetivo passar filmes para escolas da comunidade abordando temas com base na Psicologia e promover um debate e explicação sobre o tema abordado.
+Contato: coord.psicologia@grupointegrado.br
+
+#SERVIÇOS OFERTADOS APENAS AOS ESTUDANTES DA INSTITUIÇÃO.
+SERVIÇO DE ATENDIMENTO AO ALUNO (SAA).
+É um espaço em que o aluno da universidade deixa sua sugestão, reclamação ou elogio anonimamente. 
+Contato: **(44) 3518-2500** 
+
+#INTEGRAGO UP
+Oferece oportunidades para que os participantes possam desenvolver projetos, a serem transformados em serviços ou produtos.
+CONTATO: **integradoup@grupointegrado.br**
+
+#SEMANA DE INTEGRAÇÃO ENTRE CALOUROS E VETERANOS DO CURSO DE PSICOLOGIA
+Tem como objetivo a integração entre os calouros, a universidade e os veteranos por meio de atividades diferentes como: bate-papo com os veteranos, palestras, etc.
+Contato: **coord.psicologia@grupointegrado.br**
+
+#INTEGRADO CARREIRAS
+Tem como objetivo ofertar treinamentos e cursos aos seus egressos e acadêmicos, com finalidade de aumentar as chances destes de empregabilidade.
+Contato: **saa@grupointegrado.br**
+
+#POPI REESCOLHA
+O POPI também oferece serviço de reorientação para a escolha profissional aos acadêmicos que não se
+identificaram com o curso. Assim, poderão receber ajuda especializada para a nova escolha!
+Contato: **coord.psicologia@grupointegrado.br**
+
+#APOIO PSICOPEDAGÓGICO
+É um serviço oferecido aos acadêmicos do Centro Universitário Integrado para a ajuda psicológica e pedagógica.
+Contato: **O agendamento é realizado por meio do(a) coordenador(a) de cada curso.**
+

@@ -13,8 +13,11 @@ Segundo uma pesquisa de perfil socioeconômico dos estudantes de graduação, fe
 
 O tema da saúde mental dos universitários e o papel das instituições de ensino ainda tem sido pouco pesquisado no Brasil, no entanto, o estudo desenvolvido pela Revista Semestral da Associação Brasileira de Psicologia Escolar e Educacional(2008), intitulado “Adaptação à universidade em jovens calouros” merece destaque. Nessa pesquisa, constatou-se que o processo de inserção e adaptação ao Ensino Superior conta com uma série de demandas que podem ser positivas ou não:  
 <p>1. A saída de casa, a qual pode ser dificultosa (devido a um possível sentimento de solidão) ou boa, na perspectiva de maior autonomia.
+  
 2. Primeiras impressões, nas quais as instituições possuem protagonismo na concepção do estudante, já que podem vir a ser positivas ou não). 
+
 3. A percepção de mudanças em si mesmo, ou seja, há um ambiente que exige demandas diferentes das já vividas. 
+
 4. A própria adaptação ao curso, na qual confere uma multiplicidade de fatores, como o vínculo social, relações estudante-professor, além da estrutura e o que\como a instituição está ofertando. </p> 
 <p>Dada a importância deste assunto e a constatação de que a "Universidade" tem sido fonte de sofrimento psíquico, é que se faz importante pensar a responsabilidade e o papel das instituições na promoção da qualidade de vida dos seus estudantes.</p> 
 

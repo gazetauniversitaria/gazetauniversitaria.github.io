@@ -6,8 +6,7 @@ description: Ao projeto de jornal online; Gazeta Universitária
 img: saude-mental/ncapa.jpg
 tags: [Saúde Mental, Você Importa, Saúde Mental Importa, Cuide-se, Psicologia] 
 ---
-
-*Segundo uma pesquisa socioeconômica, 80% dos universitários entrevistados já tiveram problemas emocionais. *
+Segundo uma pesquisa socioeconômica, pela Andifes, 80% dos universitários entrevistados já tiveram problemas emocionais. 
 
 
 

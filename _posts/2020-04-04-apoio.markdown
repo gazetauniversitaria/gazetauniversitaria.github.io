@@ -6,6 +6,7 @@ description: Ao projeto de jornal online; Gazeta Universitária
 img:  Apoio/Apoio.png
 tags: [Estudantes, Saúde Mental, Psicologia,Adaptação, Serviços, Comunidade, Auxílio, Ouvidoria, Integrado, Campo Mourão] 
 ---
+Você sabe quais serviços o Centro Universitário Integrado oferece?
 
 **OUVIDORIA:**
 

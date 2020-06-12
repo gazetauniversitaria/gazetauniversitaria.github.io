@@ -6,10 +6,6 @@ description: Ao projeto de jornal online; Gazeta Universitária
 img: saude-mental/ncapa.jpg
 tags: [Saúde Mental, Você Importa, Saúde Mental Importa, Cuide-se, Psicologia] 
 ---
-Segundo uma pesquisa socioeconômica, pela Andifes, 80% dos universitários entrevistados já tiveram problemas emocionais. 
-
-
-
 Segundo uma pesquisa de perfil socioeconômico dos estudantes de graduação, feita pela Andifes (2014/2016), **80%** dos universitários entrevistados já tiveram problemas emocionais (ansiedade, insônia, tristeza permanente, pânico, ideia e pensamento de morte) e somente 4% contaram com apoio psicológico. Como causas desencadeadoras dos problemas emocionais foram mencionados: Problemas financeiros (42,21%), Carga excessiva de trabalhos estudantis (36,1%), Falta de disciplina e hábito de estudo (28,78%), Adaptação a mudanças de cidade, moradia e distância familiar (21,85%) e a relação com os professores (19,8%).
 
 O tema da saúde mental dos universitários e o papel das instituições de ensino ainda tem sido pouco pesquisado no Brasil, no entanto, o estudo desenvolvido pela Revista Semestral da Associação Brasileira de Psicologia Escolar e Educacional(2008), intitulado “Adaptação à universidade em jovens calouros” merece destaque. Nessa pesquisa, constatou-se que o processo de inserção e adaptação ao Ensino Superior conta com uma série de demandas que podem oscilar entre algo favorável ou não ao indivíduo:  

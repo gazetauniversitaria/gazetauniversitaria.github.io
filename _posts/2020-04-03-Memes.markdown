@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "O caminho para adaptação na universidade"
+title: "Os memes universitários"
 date: 2020-04-03 11:00:00 +0300
 description: Ao projeto de jornal online; Gazeta Universitária
-img: Memes/meme.jpg
+img: Memes/meme.jpeg
 tags: [Estudantes, Saúde Mental, Psicologia,Adaptação] 
 ---
 Em terra de internet, o meme é rei! E é claro que não poderia faltar na pauta desse jornal. 

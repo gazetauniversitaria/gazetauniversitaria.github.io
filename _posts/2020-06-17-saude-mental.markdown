@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Saúde Mental: Como manter na Universidade?"
-date: 2020-06-18 11:00:00 +0300
+date: 2020-06-17 11:00:00 +0300
 description: Ao projeto de jornal online; Gazeta Universitária
 img: saude-mental/ncapa.jpg
 tags: [Saúde Mental, Você Importa, Saúde Mental Importa, Cuide-se, Psicologia] 

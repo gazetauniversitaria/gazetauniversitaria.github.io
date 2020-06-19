@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Os memes universitários"
-date: 2020-04-03 11:00:00 +0300
+date: 2020-06-12 11:00:00 +0300
 description: Ao projeto de jornal online; Gazeta Universitária
 img: Memes/meme.jpeg
 tags: [Estudantes, Saúde Mental, Psicologia,Adaptação] 

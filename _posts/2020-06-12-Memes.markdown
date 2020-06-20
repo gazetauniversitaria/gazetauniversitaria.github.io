@@ -9,6 +9,10 @@ tags: [Estudantes, Saúde Mental, Psicologia,Adaptação]
 Em terra de internet, o meme é rei! E é claro que não poderia faltar na pauta desse jornal. 
 É meme com tema psicológico que você quer? Temos aqui.
 
+<div style="text-align:center"><img src="/assets/img/Memes/meme.jpeg" /></div> 
+
+<div style="text-align:center"><img src="/assets/img/Memes/tirinha.jpeg" /></div> 
+
 > Autores:
 >
 > <cite> LUZ, A.L.C; RIBEIRO, B.H.L; CABRERA, J.D.M; SANTOS, L.C.D; SQUINCALI, S.A. </cite>

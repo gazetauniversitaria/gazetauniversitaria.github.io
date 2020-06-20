@@ -18,3 +18,13 @@ A violência (velada ou explícita) contida na maioria dos trotes brasileiros co
 Acreditamos que o trote deva ser uma atividade crítica, que seja realmente um rito de iniciação à cultura universitária e que promova cidadania, humanismo e democracia entre os acadêmicos. Não é a toa que algumas universidades já introduziram os trotes alternativos (doação de roupas, comida, sangue, atividades voluntárias em instituições carentes, etc.) com o intuito de acabar
 
 com essa tradição violenta que nada tem a ver com um ambiente que visa a formação de seres conscientes, humanos e ético-profissionais.
+
+Barbara Nogueira Silva
+Lais Fernanda da Silva
+Noel Martins dos Santos Junior
+Rafaela Souza Dias
+Vanessa Oliveira Castilhos de Melo
+
+> Autores:
+>
+> <cite> SILVA, B.N.; SILVA, L.F; JUNIOR, N.M.S.; DIAS, R.S.; MELO, V.O.C. </cite> 

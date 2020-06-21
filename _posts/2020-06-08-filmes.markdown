@@ -3,7 +3,7 @@ layout: post
 title: "Momento cultural"
 date: 2020-04-04 11:00:00 +0300
 description: Ao projeto de jornal online; Gazeta Universitária
-img:  saude-mental/FragmentadoFIlme
+img:  Cinema
 tags: [Estudantes, Saúde Mental, Psicologia, Adaptação, Cultura, Filmes, Documentário,Música ] 
 ---
 

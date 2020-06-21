@@ -19,12 +19,6 @@ Acreditamos que o trote deva ser uma atividade crítica, que seja realmente um r
 
 com essa tradição violenta que nada tem a ver com um ambiente que visa a formação de seres conscientes, humanos e ético-profissionais.
 
-Barbara Nogueira Silva
-Lais Fernanda da Silva
-Noel Martins dos Santos Junior
-Rafaela Souza Dias
-Vanessa Oliveira Castilhos de Melo
-
 > Autores:
 >
 > <cite> SILVA, B.N.; SILVA, L.F; JUNIOR, N.M.S.; DIAS, R.S.; MELO, V.O.C. </cite> 

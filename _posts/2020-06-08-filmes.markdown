@@ -9,7 +9,7 @@ tags: [Estudantes, Saúde Mental, Psicologia, Adaptação, Cultura, Filmes, Docu
 
 Um momento de descanso é essencial para conseguir, de fato, absorver o conhecimento. Por isso, filtramos alguns filmes que tratam sobre esse contexto de adaptação universitária:
 
-1.2.1 Filmes:
+1. Filmes:
 
 
 a) “O trote” – O filme se baseia na vida de um jovem de dezenove anos, que se matricula na faculdade. Esse jovem passa por trotes brutais, a obra vai a fundo no tema numa espécie de denúncia documental.
@@ -63,7 +63,7 @@ i) “The Hunting Ground” – Este documentário trata de um tema extremamente
 <div style="text-align:center"><img src="/assets/img/Filmes/9-the hunting ground.jpg" /></div> 
 
 
-1.2.2 Músicas:
+2. Músicas:
 
 a) "O caderno" - traz a importância de um simples objeto para o desenvolvimento emocional e cognitivo da criança, entendendo a infância como principal fase para a formação do olhar adulto para o mundo.
 
@@ -71,7 +71,7 @@ b) "Mais uma vez" - A letra é feita com frases motivacionais, para acreditar em
 
 c) "Coração de estudante" - Símbolo de esperança para a juventude, a canção carrega vários significados, e, trazendo palavras de luta e perseverança.
 
-1.2.3 Documentário:
+3. Documentário:
 
 a) “Universo Universitário1” – o minidocumentário faz parte da campanha "Educação sem Evasão", desenvolvida por alunos de comunicação da UTFPR Curitiba e vencedor na categoria "Melhor Projeto Audiovisual" do 17º (Encom), em 2015. Fala sobre o “Universo Universitário”: as dificuldades encontradas pelos alunos ao ingressar a universidade, motivos de trancamento de matrículas, mudanças de opção de curso depois do ingresso, assuntos sobre pesquisa de extensão, crises vivenciadas pelos estudantes e sobre perseverar para alcançar seus objetivos.
 

@@ -75,7 +75,7 @@ c) "Coração de estudante" - Símbolo de esperança para a juventude, a cançã
 
 a) “Universo Universitário1” – o minidocumentário faz parte da campanha "Educação sem Evasão", desenvolvida por alunos de comunicação da UTFPR Curitiba e vencedor na categoria "Melhor Projeto Audiovisual" do 17º (Encom), em 2015. Fala sobre o “Universo Universitário”: as dificuldades encontradas pelos alunos ao ingressar a universidade, motivos de trancamento de matrículas, mudanças de opção de curso depois do ingresso, assuntos sobre pesquisa de extensão, crises vivenciadas pelos estudantes e sobre perseverar para alcançar seus objetivos.
 
-<div style="text-align:center"><img src="/assets/img/Filmes/Documentário.jpg /></div> 
+<div style="text-align:center"><img src="/assets/img/Filmes/Documentário.jpg" /></div> 
 
 > Autores:
 >

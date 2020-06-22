@@ -23,7 +23,7 @@ O tema da saúde mental dos universitários e o papel das instituições de ensi
 
 Para além das expectativas pessoais, muitas das causas acima mencionadas podem ser minimizadas pela própria instituição de ensino, sobretudo porque estudantes que contam com mais suporte institucional são aqueles com maior propensão para o desenvolvimento intelectual e sucesso acadêmico. Ademais, instituições que oferecem estratégias de apoio à seus estudantes contam com menor índice de evasão. 
 
-Pensando sobre o papel da instituição, você sabia que o Centro Universitário Integrado de Campo Mourão fornece uma gama de serviços de apoio aos seus alunos? Inclusive apoio emocional? [Confira aqui](https://gazetauniversitaria.github.io/apoio/) 
+Pensando sobre o papel da instituição, você sabia que o Centro Universitário Integrado de Campo Mourão fornece uma gama de serviços de apoio aos seus alunos e comunidade? Inclusive apoio emocional? [Confira aqui](https://gazetauniversitaria.github.io/apoio/) 
 
 
 > Autores:

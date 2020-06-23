@@ -7,7 +7,7 @@ baseurl: ""
 url: "gazetauniversitaria.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 author: Gazeta Universitária 
-author-img: integrado.png 
+author-img: logointegrado.png 
 about-author: | 
   De estudante para estudante.
   

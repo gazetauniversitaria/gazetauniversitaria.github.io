@@ -6,7 +6,7 @@ description: Mais detalhes sobre a Gazeta Universitária.
 img: saude-mental/PostAp.png 
 tags: [Psicologia, Centro Universitário Integrado, Projeto Interdisciplinar, Psicólogo, Universidade] 
 ---
-1) Apresentação do curso de Psicologia – Integrado
+**Apresentação do curso de Psicologia – Integrado**
 
 Bastante nova, a Psicologia ganhou, em 1962, no Brasil, espaço enquanto profissão, tendo, desde então, sua prática regulamentada. O exercício da Psicologia considera inúmeras possibilidades, visando dentre outros objetivos a promoção, prevenção e manutenção da saúde mental de toda a população. Sendo assim, o estudante de Psicologia é imerso em conteúdos e teorias específicas que são por sua vez  fundamentais  na construção e exercicio deste profissional.
 
@@ -17,7 +17,7 @@ Mas, vou parar por aqui, sem muitos antecipar detalhes, pois muito em breve fala
 Sejam bem-vindos.
 
 
-2) Apresentação do PI – 
+**Projeto Interdisciplinar: O que é?**
 
  Daqui em diante, os acadêmicos do segundo período alimentarão esta página, após um estudo sistematizado dos temas elegidos, a partir da proposta da disciplina de Projeto Interdisciplinar. Falando nisso, o projeto Interdisciplinar compõe a grade curricular do estudante de Psicologia, ou seja, nesta disciplina o acadêmico tem um objetivo prático, envolvendo sobretudo, desenvolver um produto para a comunidade.
 
@@ -28,7 +28,7 @@ Assim, utilizando este espaço, os acadêmicos irão percorrer toda a construç�
 Boa leitura, aproveitem!
 
 
-3) A gazeta Universitária
+**A gazeta Universitária**
 
 A gazeta universitária foi criada a partir da disciplina de Projeto Interdisciplinar dos alunos do agora 2 período de Psicologia. Foi  idealizada, justamente, como ferramenta para os alunos divulgarem as produções desenvolvidas nesta disciplina –  explicada no post anterior - tanto no Instagram quanto em site próprio – <Endereço do site>....  
 

@@ -3,7 +3,7 @@ layout: post
 title: "Gazeta Universitária: Conheça mais sobre o projeto."
 date: 2020-10-30 18:00:00 +0300
 description: Mais detalhes sobre a Gazeta Universitária.
-img: saude-mental/Post Apresentação.png
+img: saude-mental/PostAp.png 
 tags: [Psicologia, Centro Universitário Integrado, Projeto Interdisciplinar, Psicólogo, Universidade] 
 ---
 1) Apresentação do curso de Psicologia – Integrado

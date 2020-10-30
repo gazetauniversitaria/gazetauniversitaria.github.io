@@ -8,8 +8,7 @@ url: "gazetauniversitaria.github.io" # the base hostname & protocol for your sit
 
 author: Gazeta Universitária 
 author-img: logointegrado.png 
-about-author: | 
-  De estudante para estudante.
+# about-author: De estudante para estudante.
   
 social-email: anakrichicovski@hotmail.com
 

@@ -4,7 +4,7 @@ title: "Gazeta Universitária - Projeto"
 date: 2020-11-03 19:40:00 +0300
 description: Ao projeto de jornal online; Gazeta Universitária
 img: saude-mental/PostAp.png
-tags: [Estudantes, Saúde Mental, Psicologia,Adaptação] 
+tags: [Estudantes, Psicologia, Centro Universitário Integrado] 
 ---
 Bastante nova, a Psicologia ganhou, em 1962, no Brasil, espaço enquanto profissão, tendo, desde então sua prática regulamentada. O exercício da Psicologia considera inúmeras possibilidades, visa dentre outros objetivos a promoção, prevenção e manutenção da saúde mental de toda a população. Sendo assim, o estudante de Psicologia é imerso em conteúdos densos que são fundamentais  na construção deste profissional. 
 Para tanto, o curso de Psicologia - Centro Universitário Integrado, tem desde 2014, um corpo docente capacitado, com especialistas, mestre e doutores, ativos com a comunidade e propostos a promover uma formação comprometida e engajada, baseando-se sempre nos pressupostos éticos desta profissão.

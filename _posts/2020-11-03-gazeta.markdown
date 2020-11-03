@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "O caminho para adaptação na universidade"
+title: "Gazeta Universitária - Projeto"
 date: 2020-11-03 19:40:00 +0300
 description: Ao projeto de jornal online; Gazeta Universitária
 img: saude-mental/PostAp.png

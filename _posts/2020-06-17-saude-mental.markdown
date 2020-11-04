@@ -41,4 +41,4 @@ As  resoluções são a longo prazo, isso é fato, mas são urgentes de se inici
 
 
 
-- Ana Krichcivoski, Denise Del conte, Gabriel Riva, Michael Douglas e Karina dos Santos.
+- Ana Krichicovski, Denise Del conte, Gabriel Riva, Michael Douglas e Karina dos Santos.

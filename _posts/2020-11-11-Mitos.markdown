@@ -4,7 +4,7 @@ title: Psicologia para leigos
 date: 2020-11-11 22:56:00 +0300
 description: Saiba mais sobre a psicologia e os testes vocacionais.
 img: saude-mental/PsicoLeigos.jpg
-tags: [Integrado, Jornal, Estudantes] # add tag
+tags: [Integrado, Jornal, Estudantes, Psicologia para leigos, Teste Vocacional] # add tag
 ---
 
 
@@ -25,5 +25,7 @@ O perfil daqueles que buscam atendimento psicológico é amplo e diverso, não c
 
 
 O teste vocacional é pautado na ideia de que para um conjunto de habilidades que um indivíduo possui, existe um conjunto de opções profissionais em que ele poderia apresentar excelentes resultados, de modo compatível aos seus valores, aspirações, nível socioeconômico e estilo de vida que o indivíduo deseja ter. 
-Ele auxilia na tarefa árdua de realizar uma escolha que irá impactar de forma significativa da vida de uma pessoa, seja pelo tempo, estudo, esforço aplicado, preparo, desgaste emocional, custos financeiros e o mercado de trabalho. Por mais que essa escolha não seja determinante, ainda sim, é de suma importância considerar esses fatores e seu peso na vida do indivíduo.
+Ele auxilia na tarefa árdua de realizar uma escolha que irá impactar de forma significativa da vida de uma pessoa, seja pelo tempo, estudo, esforço aplicado, preparo, desgaste emocional, custos financeiros e o mercado de trabalho. Por mais queDiego Slusarski, Nikiele C. da Silva e Caren Eduarda S. Bonfim essa escolha não seja determinante, ainda sim, é de suma importância considerar esses fatores e seu peso na vida do indivíduo.
 Essa análise oferece as primeiras informações sobre as profissões com as quais pode haver compatibilidade. No entanto, é preciso levar em conta que apenas um teste não é capaz de reconhecer todas as características pessoais e necessidades psicológicas da pessoa que está realizando a seleção profissional, por isso, a recomendação da realização de uma sessão de Orientação Profissional, que é uma ampliação dos objetivos do teste. 
+
+- Diego Slusarski, Nikiele C. da Silva e Caren Eduarda S. Bonfim

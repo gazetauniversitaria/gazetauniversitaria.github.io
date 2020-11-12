@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Psicologia para leigos 
-date: 2020-04-01 18:00:00 +0300
+date: 2020-11-11 22:56:00 +0300
 description: Saiba mais sobre a psicologia e os testes vocacionais.
 img: saude-mental/PsicoLeigos.jpg.jpg
 tags: [Integrado, Jornal, Estudantes] # add tag

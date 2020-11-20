@@ -45,4 +45,4 @@ Quando um paciente não se identifica com a abordagem, ele pode falar isso na se
 
 Contudo, o psicólogo deve sempre estar em constante busca por conhecimento para que assim possa ser um profissional capacitado e preparado para lidar com as mais diversas situações.
 
--
+- Bárbara Nogueira, Lais Fernanda, Luana Campos, Rafaela de Souza e Richerd Felipe.

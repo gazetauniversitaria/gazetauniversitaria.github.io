@@ -3,6 +3,7 @@ layout: post
 title: A Importância da Psicologia nas Demais Áreas de Graduação
 date: 2020-11-27 16:00:00 +0300
 description: Ao projeto de jornal online; Gazeta Universitária
+img: Importancia.jpg
 tags: [Importancia da Psicologia, Psicologia, Faculdade] # add tag
 ---
 A Psicologia é uma ciência que, ao longo dos anos, passou por diversos processos de desenvolvimento, até construir um bom entendimento sobre o comportamento humano. Você sabia, porém, que a ciência psicológica pode estar presente em outras áreas de graduação? 

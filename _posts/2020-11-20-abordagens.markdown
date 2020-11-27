@@ -3,7 +3,7 @@ layout: post
 title: "Abordagens teóricas dentro da Psicologia: a escolha do aluno desde a graduação até o mercado de trabalho."
 date: 2020-11-20 11:00:00 +0300
 description: Ao projeto de jornal online; Gazeta Universitária
-img: saude-mental/Abordagens.jpg
+img: Abordagens.jpg
 tags: [Psicologia, Abordagens, Teorias Psicológicas] 
 ---
 
